@@ -1,12 +1,23 @@
 {
-  "name": "emoji-translater",
+  "name": "easy-emoji-translater",
+  "description": "Translate your emoji -> text and text -> emoji",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "emoji",
+    "translate"
+  ],
+  "author": "Dordoff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleurxs/easy-emoji-translater.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fleurxs/easy-emoji-translater/issues"
+  },
+  "homepage": "https://github.com/fleurxs/easy-emoji-translater#readme"
 }
