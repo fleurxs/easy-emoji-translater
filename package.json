@@ -1,5 +1,5 @@
 {
-  "name": "easy-emoji-translater",
+  "name": "easy-emoji-translator",
   "description": "Translate your emoji -> text and text -> emoji",
   "version": "1.0.0",
   "main": "index.js",
@@ -14,10 +14,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fleurxs/easy-emoji-translater.git"
+    "url": "git+https://github.com/fleurxs/easy-emoji-translator.git"
   },
   "bugs": {
-    "url": "https://github.com/fleurxs/easy-emoji-translater/issues"
+    "url": "https://github.com/fleurxs/easy-emoji-translator/issues"
   },
-  "homepage": "https://github.com/fleurxs/easy-emoji-translater#readme"
+  "homepage": "https://github.com/fleurxs/easy-emoji-translator#readme"
 }
